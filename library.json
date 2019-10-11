@@ -9,7 +9,7 @@
     "url": "https://github.com/google/googletest.git"
   },
   "version": "1.8.1",
-  "frameworks": "arduino",
+  "frameworks": "arduino  ",
   "platforms": [
         "espressif32"
   ],
